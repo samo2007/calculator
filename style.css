@@ -1,0 +1,37 @@
+div {
+    background-image: url(img/24b295d217e1a9cd5c80a5e6fc8392cf.jpg);
+    background-repeat: no-repeat;
+    /* display: inline-block; */
+    width: 400px;
+    margin: 200px  auto 0;
+    border-radius: 28px;
+    border: 1px solid black ;
+    padding: 30px;
+}
+input{
+    padding: 11px 32px;
+    margin: 10px;
+    font-size: 17px;
+    border: none;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.608);
+    border-radius: 20px;
+}
+
+#input1{
+    width: 75%;
+    color: black;
+    background-color: white;
+    outline: none;
+    margin: 0px 10px;
+    border-radius: 0px;
+}
+#input2{
+    color: black;
+    background-color: white;
+    outline: none;
+    margin: 0px 10px;
+    width: 75%;
+    font-size: 25px;
+    border-radius: 0px;
+}
